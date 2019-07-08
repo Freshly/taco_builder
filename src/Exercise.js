@@ -38,7 +38,7 @@ export default () => (
     <table>
       <tbody>
         <tr>
-          <th colspan="2">Shells</th>
+          <th colSpan="2">Shells</th>
         </tr>
         <tr>
           <td>Soft</td>
@@ -49,7 +49,7 @@ export default () => (
           <td>$0.10</td>
         </tr>
         <tr>
-          <th colspan="2">Protein</th>
+          <th colSpan="2">Protein</th>
         </tr>
         <tr>
           <td>Chicken</td>
@@ -64,7 +64,7 @@ export default () => (
           <td>$2.25</td>
         </tr>
         <tr>
-          <th colspan="2">Toppings</th>
+          <th colSpan="2">Toppings</th>
         </tr>
         <tr>
           <td>Tomato</td>
